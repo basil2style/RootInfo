@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+
+    <item android:id="@+id/rate" android:title="Rate"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/Share" android:title="Share"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/about" android:title="About"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/report" android:title="Report Issue"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/Exit" android:title="Exit"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
