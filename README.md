@@ -21,5 +21,3 @@ No In-App Purchase<br>
 Credits:<br>
 Sterics for RootTools,<br>
 Drakeet for MaterialDialog<br>
-We started this project as completely free.If you like this app,please support us by Rating,Reviewing and Sharing.
-If you found any bugs or issues,kindly contact us on our e-mail : makeinfo14@gmail.com
